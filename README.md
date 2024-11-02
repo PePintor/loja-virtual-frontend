@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# Loja--virtual-Frontend" 
 "# loja-virtual-frontend" 
 "# loja-virtual-frontend" 
+"# loja-virtual-frontend" 
